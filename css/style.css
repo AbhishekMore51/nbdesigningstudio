@@ -1183,7 +1183,7 @@ body.vegas-container > .vegas-slide {
     overflow: scroll;
   max-width: 800px;
   margin: 0 auto;
-  background: url("../images/aa.jpg");
+  background: url("../images/bg.jpg");
   height: 100vh;
   border: 1px solid #cccccc;
 }
@@ -1200,6 +1200,7 @@ body.vegas-container > .vegas-slide {
 
 .qr-section .content .head-block-1 h3{
   text-align: center;
+  color: #ffffff;
 }
 
 .qr-section .content .text-block-1{}
@@ -1208,6 +1209,7 @@ body.vegas-container > .vegas-slide {
   font-weight: bold;
   text-transform: uppercase;
   text-align: center;
+  color: #fceb7f;
 }
 
 .qr-section .image-block-1 {
@@ -1227,6 +1229,7 @@ body.vegas-container > .vegas-slide {
 
 .qr-section .link-button a{
   display: block;
+  color: #ffffff;
 }
 
 .qr-section-1 {
