@@ -1236,21 +1236,21 @@ body.vegas-container > .vegas-slide {
   overflow: scroll;
   max-width: 800px;
   margin: 0 auto;
-  background: url("../images/aa1.jpg");
+  background: url("../images/aa4.jpg");
   height: 100vh;
   border: 1px solid #cccccc;
 }
 
 .qr-section-1 .image-block-2{
-  max-width: 150px;
+  max-width: 200px;
   margin: 0 auto;
   margin-top: 150px;
 }
 
 .qr-section-1 .image-block-2 img{
   width: 100%;
-  border-radius: 50%;
-  border: 2px solid #cccccc;
+  /* border-radius: 50%; */
+  /* border: 2px solid #cccccc; */
 }
 
 .qr-section-1 .head-block-2{
@@ -1275,6 +1275,10 @@ body.vegas-container > .vegas-slide {
   display: block;
 }
 
+.qr-section-1 button:hover{
+  background: #ffffff;
+}
+
 .qr-section-1 .head-block-2 h4{
   font-weight: bold;
 }
@@ -1283,6 +1287,7 @@ body.vegas-container > .vegas-slide {
       border: 1px solid #cccccc;
     background: rgba(59, 89, 151, 0.1);
     margin-bottom: 15px;
+    border-radius: 7px;
 }
 
 .qr-section-1 button .image-block-3{
